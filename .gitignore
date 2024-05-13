@@ -1,0 +1,7 @@
+data/
+database/
+iFactory/
+.env
+__pycache__/
+.files/
+test.py
